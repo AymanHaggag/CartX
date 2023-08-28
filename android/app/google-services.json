@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "537011841627",
+    "project_id": "cartx-a837b",
+    "storage_bucket": "cartx-a837b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537011841627:android:18939a704bc3550485ed7e",
+        "android_client_info": {
+          "package_name": "com.example.marketo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537011841627-95jl36ce1imtq363i4lmrj5bqckjdism.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.marketo",
+            "certificate_hash": "a6c611a366903e9daf200521df1390fe17aa233b"
+          }
+        },
+        {
+          "client_id": "537011841627-1spp1e7j8cbrkftb4omcmbdb2mnv8ojd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAMV0RXlAXK84rD9LHOsnIHqP8SdfVpvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537011841627-1spp1e7j8cbrkftb4omcmbdb2mnv8ojd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

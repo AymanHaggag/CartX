@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>537011841627-95tbrh83k3m3kr5kc19ca08ujpo8rk49.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.537011841627-95tbrh83k3m3kr5kc19ca08ujpo8rk49</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>537011841627-95jl36ce1imtq363i4lmrj5bqckjdism.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC3Lzz_itthyz1AU2U6HavfHEbvrLXEIIM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>537011841627</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.marketo</string>
+	<key>PROJECT_ID</key>
+	<string>cartx-a837b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cartx-a837b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:537011841627:ios:dd0fb8a66c7128f985ed7e</string>
+</dict>
+</plist>
